@@ -1,7 +1,7 @@
 # java-multilingualism-project
 A Dualingo-like app, basically an Object-oriented Java Project.
 
-There are 4 languages ; Turkish, German, Italian.
+There are 4 languages ; Turkish, German, Italian, Spanish.
 With a given users.csv file, app initializes users with random stats (daily streak, quizzes to be solved etc.)
 Initializes 5 leagues for each language; Bronze, Silver, Gold, Sapphire, Ruby.
 
